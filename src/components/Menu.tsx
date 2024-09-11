@@ -7,7 +7,7 @@ const menuItems = [
     title: "MENU",
     items: [
       {
-        icon: "/home.png",
+        icon: "/next_dashboard/home.png",
         label: "Home",
         href: "/",
         visible: ["admin", "teacher", "student", "parent"],
