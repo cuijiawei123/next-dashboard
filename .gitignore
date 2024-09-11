@@ -11,7 +11,7 @@
 
 # next.js
 /.next/
-/out/
+#/out/  暂时本地打包
 
 # production
 /build
