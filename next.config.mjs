@@ -2,7 +2,7 @@
 const nextConfig = {
   output: "export",
   basePath: '/next_dashboard',
-  assetPrefix: '/next_dashboard',
+  assetPrefix: '/next_dashboard/',
   images: {
     unoptimized: true, // 禁用图片优化功能
     remotePatterns: [{ hostname: "images.pexels.com" }],
