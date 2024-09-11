@@ -142,4 +142,5 @@ const SingleStudentPage = () => {
   );
 };
 
+
 export default SingleStudentPage;
